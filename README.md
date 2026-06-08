@@ -19,8 +19,6 @@ This project is here to demonstrate practical systems thinking across several ar
 - Storage design and backup strategy.
 - Documentation of a real-world personal platform.
 
-For a portfolio website, this kind of project can be a strong signal because it shows architecture thinking, breadth across infrastructure and applications, and long-term ownership rather than a toy demo.
-
 ## Scope
 
 The stack shown in the diagram includes several categories of systems:
@@ -37,7 +35,7 @@ The exact services may evolve over time as the lab changes.
 
 ## What the diagram highlights
 
-The diagram is intended to show:
+The diagram illustrates:
 
 - How traffic reaches the environment.
 - Which systems act as gateways, proxies, or access control layers.
@@ -55,7 +53,7 @@ The diagram is intended to show:
 
 ## Technologies represented
 
-Examples of technologies visible in the diagram include:
+Technologies visible in the diagram include:
 
 - Ubuntu and Linux-based self-hosting.
 - KVM virtualization.
