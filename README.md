@@ -46,7 +46,7 @@ The diagram illustrates:
 
 ## Architecture diagram
 
-![Home lab architecture](docs/milkyway.png)
+![Home lab architecture](docs/infra.png)
 
 ## Storage partitioning
 jbod1, jbod2, jbod3, jbod4 aggregated in jbod via mergerfs.
