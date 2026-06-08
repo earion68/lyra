@@ -49,8 +49,9 @@ The diagram is intended to show:
 ## Architecture diagram
 
 ![Home lab architecture](docs/milkyway.png)
-![Storage](docs/storage.png)
 
+## Storage partitioning
+![Storage](docs/storage.png)
 
 ## Technologies represented
 
