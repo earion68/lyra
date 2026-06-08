@@ -44,6 +44,7 @@ The diagram is intended to show:
 - How service hosting is distributed across nodes and virtual machines.
 - Which components support home automation.
 - How storage and backup are separated.
+- How backups follow the 3-2-1 principle.
 
 ## Architecture diagram
 
