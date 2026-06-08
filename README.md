@@ -47,9 +47,8 @@ The diagram is intended to show:
 
 ## Architecture diagram
 
-```md
 ![Home lab architecture](docs/homelab-diagram.jpg)
-```
+
 
 ## Technologies represented
 
